@@ -1,4 +1,4 @@
 #+title: svg-lib icons for kind-icon
-
+This is all the svg icons that use for [[https://github.com/jdtsmith/kind-icon][kind-icon]].  Just for my personal use. If you want more icons, you can visit [[https://github.com/Templarian/MaterialDesign-SVG][Templarian/MaterialDesign-SVG]]
 * Usage
 Clone this repository and copy all the ~.svg~ files to ~$HOME/.emacs.d/.cache/svg-lib~
