@@ -1,0 +1,4 @@
+#+title: svg-lib icons for kind-icon
+
+* Usage
+Clone this repository and copy all the ~.svg~ files to ~$HOME/.emacs.d/.cache/svg-lib~
